@@ -13,7 +13,7 @@ Please ensure you have the required dependencies installed before running the se
 
 ## Update Status
 
-- Last Updated: Fall 2021
+- Last Updated: July 2023
 - Server Availability: The server is currently offline. However, it will be updated and operational in the coming months.
 
 ## Configuration
